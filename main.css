@@ -1,0 +1,16 @@
+.menuNavegacion {
+  margin-left: 3rem;
+  margin-right: 3rem;
+}
+
+main {
+  margin: 3rem;
+}
+
+.card {
+  width: 18rem;
+}
+
+footer {
+  background-color: lightgrey;
+}
